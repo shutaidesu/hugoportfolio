@@ -12,3 +12,7 @@ date: 2026-01-05
 ---
 
 [Сайт на Bootstrap](/hugoportfolio/bootstrap)
+
+---
+
+[GitHub Desktop](/hugoportfolio/git)
