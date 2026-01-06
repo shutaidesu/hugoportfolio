@@ -16,3 +16,7 @@ date: 2026-01-05
 ---
 
 [GitHub Desktop](/hugoportfolio/git)
+
+---
+
+[HTTP](/hugoportfolio/http)
